@@ -3,13 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="mailto:Jasuriosdev@gmail.com">
+    <img src="https://img.shields.io/badge/MyEmail-D14836?logo=gmail&logoColor=white" height="25" alt="email" />
+  </a> 
+  <a href="https://t.me/shonavruzov">
+    <img src="https://img.shields.io/badge/MyTelegram-blue?logo=telegram&logoColor=white&color=blue" height="25" alt="telegram" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasurios" />
 </div>
 
 <h1>💫 About Me:</h1>
@@ -20,15 +23,6 @@
   🌱 I’m currently learning <strong>Linux kernel tweaks, kernel-level Android modification, and TinyGo</strong><br>
   💬 Ask me about **Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity**<br>
   ⚡ Fun fact <strong>My OS is Fedora, my phone runs a custom kernel with SuSFS. Basically, if it has a chip, it will be customized.</strong>
-</p>
-
-<p>
-  <a href="mailto:Jasuriosdev@gmail.com">
-    <img src="https://img.shields.io/badge/MyEmail-D14836?logo=gmail&logoColor=white" alt="email" />
-  </a> 
-  <a href="https://t.me/shonavruzov">
-    <img src="https://img.shields.io/badge/MyTelegram-blue?logo=telegram&logoColor=white&color=blue" alt="telegram" />
-  </a>
 </p>
 
 <h1>💻 Tech Stack:</h1>
@@ -64,9 +58,6 @@
 <h1>📊 GitHub Stats:</h1>
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jasurios&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Jasurios" alt="Visitor Count" />
-  </a>
 </p>
 
 <h2>💰 You can help me by Donating</h2>
