@@ -1,3 +1,26 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
 # 💫 About Me:
 🔭 I’m currently working on **HidirAi Telegram bot & custom ESP32 hardware modules**<br>👯 I’m looking to collaborate on **Go (Golang) backend tools, embedded systems, and Linux automation**<br>🤝 I’m looking for help with **Advanced Go concurrency and custom PCB design**<br>🌱 I’m currently learning **Linux kernel tweaks, kernel-level Android modification, and TinyGo**<br>💬 Ask me about **Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity**<br>⚡ Fun fact **My OS is Fedora, my phone runs a custom kernel with SuSFS. Basically, if it has a chip, it will be customized.**<br>
 
