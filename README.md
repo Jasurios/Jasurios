@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="mailto:Jasuriosdev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
-  </a> 
   <a href="https://t.me/shonavruzov">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram" />
   </a>
+  <a href="mailto:Jasuriosdev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
+  </a> 
 </div>
 
 <div align="center">
