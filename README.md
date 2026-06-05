@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="mailto:Jasuriosdev@gmail.com">
-    <img src="https://img.shields.io/badge/MyEmail-D14836?logo=gmail&logoColor=white" height="25" alt="email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
   </a> 
   <a href="https://t.me/shonavruzov">
-    <img src="https://img.shields.io/badge/MyTelegram-blue?logo=telegram&logoColor=white&color=blue" height="25" alt="telegram" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram" />
   </a>
 </div>
 
