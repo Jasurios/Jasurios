@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt">
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://github.com/Jasurios/Jasurios/blob/main/Anonymous_emblem.svg.png" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
   👯 I’m looking to collaborate on <strong>Go (Golang) backend tools, embedded systems, and Linux automation</strong><br>
   🤝 I’m looking for help with <strong>Advanced Go concurrency and custom PCB design</strong><br>
   🌱 I’m currently learning <strong>Linux kernel tweaks, kernel-level Android modification, and TinyGo</strong><br>
-  💬 Ask me about **Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity**<br>
+  💬 Ask me about <strong>Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity</strong><br>
   ⚡ Fun fact <strong>My OS is Fedora, my phone runs a custom kernel with SuSFS. Basically, if it has a chip, it will be customized.</strong>
 </p>
 
