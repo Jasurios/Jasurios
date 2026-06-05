@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Jasurios%2FJasurios&label=visitors&countColor=%2326a641" alt="visitors">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Jasurios%2FJasurios-v2&label=visitors&countColor=%2326a641" alt="visitors">
 </div>
 
 <h1>💫 About Me:</h1>
