@@ -24,7 +24,7 @@
   🤝 I’m looking for help with <strong>Advanced Go concurrency and custom PCB design</strong><br>
   🌱 I’m currently learning <strong>Linux kernel tweaks, kernel-level Android modification, and TinyGo</strong><br>
   💬 Ask me about <strong>Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity</strong><br>
-  ⚡ Fun fact <strong>My OS is Fedora, my phone runs a custom kernel with SuSFS. Basically, if it has a chip, it will be customized.</strong>
+  ⚡ Fun fact <strong>I have 128IQ. My OS is Fedora, my phone runs a custom kernel with SuSFS. Basically, if it has a chip, it will be customized.</strong>
 </p>
 
 <h1>💻 Tech Stack:</h1>
