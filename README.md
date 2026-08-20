@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt">
 
 <div align="center">
-  <img height="150" src="https://github.com/Jasurios/Jasurios/blob/main/Anonymous_emblem.svg.png" />
+  <img height="150" src="https://github.com/Jasurios/Jasurios/blob/main/photo_2026-06-28_16-40-55.jpg" />
 </div>
 
 <div align="center">
